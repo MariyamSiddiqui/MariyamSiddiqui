@@ -7,6 +7,8 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MariyamSiddiqui&layout=compact)](https://github.com/MariyamSiddiqui)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MariyamSiddiqui)](https://github.com/MariyamSiddiqui)
 
+## Languages and Tools 
+<div>
 
 ## Projects
 - [Python Website](https://github.com/MariyamSiddiqui/Python-Website)
