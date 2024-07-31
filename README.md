@@ -1,7 +1,5 @@
 # Hi there, I'm Mariyam Siddiqui 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mariyamsiddiqui&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/mariyamsiddiqui/github-profile-trophy)
-
 ## GitHub Stats
 [![Mariyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MariyamSiddiqui&show_icons=true)](https://github.com/MariyamSiddiqui)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MariyamSiddiqui&layout=compact)](https://github.com/MariyamSiddiqui)
