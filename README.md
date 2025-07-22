@@ -51,7 +51,7 @@ I'm a passionate and curious Data Science learner who loves turning messy data i
 
 ## 📬 Contact Me
 
-- 📧 Email: **your.email@example.com**
+- 📧 Email: **mariyamsiddiquicontact@gmail.com**
 - 💼 LinkedIn: [Mariyam Siddiqui](https://www.linkedin.com/in/mariyamsiddiqui77/)
 
 
@@ -60,4 +60,5 @@ I'm a passionate and curious Data Science learner who loves turning messy data i
 ## 🙌 Let's Connect!
 
 If you like my work or want to collaborate on data projects, feel free to reach out. Always happy to connect with fellow learners and data lovers! 🌟
+💬 *Open to internships, collaborations, and freelance data analysis projects.*
 
