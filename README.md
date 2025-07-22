@@ -1,65 +1,96 @@
-<h1 align="center">Hi there, I'm Mariyam Siddiqui 👋</h1>
-
+<!-- Banner image (optional) -->
 <p align="center">
-  🎯 Aspiring Data Scientist | 📊 Data Analyst | 🐍 Python Enthusiast  
+  <img src="https://github.com/yourusername/yourusername/assets/banner.png" alt="Data Science Banner" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="120" />
-</p>
-
----
-
-## 👩‍💻 About Me
-
-I'm a passionate and curious Data Science learner who loves turning messy data into meaningful insights. Currently working on real-world datasets using Python, Pandas, and Matplotlib.
-
-- 🔍 Interested in Data Analysis, Machine Learning & Visualization  
-- 💻 Comfortable with Jupyter Notebooks, NumPy, pandas, Seaborn, and Matplotlib  
-- 📚 Currently learning: Machine Learning with scikit-learn & SQL  
-- 🎓 Looking for internships and collaborative open-source projects  
-
----
-
-## 🚀 Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![pandas](https://img.shields.io/badge/-pandas-150458?style=flat&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat)
-![Seaborn](https://img.shields.io/badge/-Seaborn-0C5A5A?style=flat)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter)
-![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=postgresql&logoColor=white)
-
----
-
-## 📂 Featured Projects
-
-| Project | Description | Tools |
-|--------|-------------|-------|
-| [Netflix 1990s Movie Analysis](https://github.com/MariyamSiddiqui/investigating_netflix_movies) | Analyzing short action movies and movie durations from the 1990s using pandas and matplotlib | `Python`, `pandas`, `matplotlib` |
-
-
----
-
-## 📈 GitHub Stats
+<h1 align="center">Hi 👋, I'm Mariyam Siddiqui</h1>
+<h3 align="center">Turning raw data into powerful insights 🌍</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" width="450"/>
+  <a href="https://www.linkedin.com/in/yourprofile/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+  <a href="https://yourportfolio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=Notion&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 📬 Contact Me
+## 🧠 About Me
 
-- 📧 Email: mariyamsiddiquicontact@gmail.com
-- 💼 LinkedIn: [Mariyam Siddiqui](https://www.linkedin.com/in/mariyamsiddiqui77/)
+🎓 I'm Mariyam Siddiqui — a passionate, self-motivated **Data Science learner** with a love for solving real-world problems through data.
 
+🔎 I explore **data analysis**, **data cleaning**, and **insight generation** using tools like Python, pandas, and matplotlib.
+
+🌱 Currently learning: **Machine Learning**, **scikit-learn**, and **SQL**  
+📊 Recently completed: **Netflix Movies Duration Analysis Project (1990s)**  
+📌 Goal: Build intelligent data products that make real-world impact.
 
 ---
 
-## 🙌 Let's Connect!
+## 💼 Skills & Tools
 
-If you like my work or want to collaborate on data projects, feel free to reach out. Always happy to connect with fellow learners and data lovers! 🌟
+**Languages & Libraries:**
 
+- 🐍 Python (pandas, NumPy, Matplotlib, Seaborn)
+- 📁 SQL for data querying
+- 📊 Jupyter Notebooks
+- 📌 scikit-learn (ML basics)
+- 📈 Data Visualization
+- 🔍 EDA (Exploratory Data Analysis)
+
+**Other:**
+
+- Git & GitHub
+- VS Code / JupyterLab
+- Google Colab
+- Markdown
+
+---
+
+## 📁 Featured Projects
+
+### 🎬 Netflix 1990s Movie Analysis
+📌 *Analyzed movie durations and short action movies from the 1990s on Netflix.*
+
+- Filtered and cleaned Netflix movie dataset
+- Counted short action films under 90 minutes
+- Visualized duration trends with histograms
+
+🔗 [View Project →](https://github.com/MariyamSiddiqui/Investigating-Netflix-Movies)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=gruvbox&hide=stars" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=gruvbox" width="47%" />
+</p>
+
+---
+
+## 🤝 Let’s Connect
+
+📬 **Email:** mariyamsiddiquicontact@gmail.com
+🔗 **LinkedIn:** [linkedin.com/in/Mariyam Siddiqui](https://linkedin.com/in/mariyamsiddiqui77/)  
+
+
+💬 *Open to internships, collaborations, and freelance data analysis projects.*
+
+---
+
+## 🙏 Thanks for stopping by!
+
+⭐️ If you like my work, please consider giving a star or following — it helps a lot!
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250">
+</p>
