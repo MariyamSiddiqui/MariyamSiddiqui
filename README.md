@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Mariyam Siddiqui 👋</h1>
 
 <p align="center">
-  🎯 Aspiring Data Scientist | 📊 Data Analyst | 🐍 Python Enthusiast  
+  🎯 Aspiring Data Scientist | 📊 Data Analyst | 🐍 Python Enthusiast 
 </p>
 
 <p align="center">
