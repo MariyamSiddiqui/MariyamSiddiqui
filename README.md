@@ -43,14 +43,6 @@ I enjoy working on real-world problems involving data analysis, machine learning
 
 ---
 
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MariyamSiddiqui&show_icons=true&theme=default" width="450"/>
-</p>
-
----
-
 ## Contact
 
 - Email: mariyamsiddiquicontact@gmail.com  
