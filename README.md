@@ -1,7 +1,7 @@
 <h1 align="center">Mariyam Siddiqui</h1>
 
 <p align="center">
-  AIOps Intern | Data Science Enthusiast | Python Developer
+  Computer Engineer | Machine Learning | AIOps Intern 
 </p>
 
 ---
